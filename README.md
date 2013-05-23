@@ -8,7 +8,7 @@ jquery-lineTo author:caoke qq:914890674
 	//两点之间相连
 	lineTo:function(where){
 		var begin=$(this).position();
-		var end=$(where).position();
+		var end=$(where).position();	
 		
 		//两个点
 		var a1=new Vec2(begin.left,begin.top)

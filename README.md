@@ -1,6 +1,3 @@
-jquery-lineTo author:caoke qq:914890674
-=============
-
 //author:caoke qq:914890674
 (function($){
 	$.fn.extend({
@@ -43,4 +40,4 @@ $(function(){
 	$(".block").eq(2).lineTo(".end")
 	$(".end").lineTo($(".block").eq(2))
 })
-		
+	

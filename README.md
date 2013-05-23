@@ -1,9 +1,8 @@
-jquery-lineTo
+jquery-lineTo author:caoke qq:914890674
 =============
 
 //两点之间相连箭头效果
 
-/*author:caoke qq:914890674 */
 (function($){
   $.fn.extend({
 		//两点之间相连
